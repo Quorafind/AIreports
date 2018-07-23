@@ -7,7 +7,7 @@
 
 3. ###### [英国-人工智能报告-非全体](https://github.com/Quorafind/AIreports/blob/master/%E8%8B%B1%E5%9B%BDAI%E6%8A%A5%E5%91%8A(AI%20in%20England).pdf)
 
-4. ###### [亿欧-人工智能商业落地](https://github.com/Quorafind/AIreports/blob/master/%E4%BA%BF%E6%AC%A7-%E5%95%86%E4%B8%9A%E8%90%BD%E5%9C%B0%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A%2B100%E5%BC%BA%E4%BC%81%E4%B8%9A%E6%A6%9C%E5%8D%95.pdf)
+4. ###### ~~亿欧-人工智能商业落地~~ (非中立)
 
 5. ###### [鲸准-人工智能报告-行业](https://github.com/Quorafind/AIreports/blob/master/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A1%8C%E4%B8%9A%E5%BA%94%E7%94%A8%E4%BB%B7%E5%80%BC%E6%8A%A5%E5%91%8A.pdf)
 
@@ -17,4 +17,4 @@
 
 
 
-以上具有时效性，更新日期为 2018-7-17
+以上具有时效性，更新日期为 2018-7-22
